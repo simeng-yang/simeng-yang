@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-### I'm excited to be working on Deep Learning @ Instagram NYC this fall! 
-### Previously, I also worked on Machine Learning @ Microsoft Redmond.
-### Looking forwards to what the future will bring!
-### I'm also open to opportunities to collaborate, so feel free to reach out for a chat.
+I'm excited to be working on Deep Learning @ [Instagram](https://www.instagram.com/?hl=en) NYC this fall! 
+
+Previously, I also worked on Machine Learning @ [Microsoft](https://www.microsoft.com/en-us/visitorcenter/default) Redmond.
+
+Looking forwards to what the future will bring!
+
+I'm also open to opportunities to collaborate, so feel free to reach out for a chat.
 <!--
 **simeng-yang/simeng-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Some of my handles on the web...
+#### ➤ [My LinkedIn](https://www.linkedin.com/in/simengyang/)
+#### ➤ [My Resume](https://simengyang.me/assets/Simeng_Resume.pdf) |
