@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### I'm excited to be working on Deep Learning @ Instagram NYC this fall! 
+### Previously, I also worked on Machine Learning @ Microsoft Redmond.
+### Looking forwards to what the future will bring!
+### I'm also open to opportunities to collaborate, so feel free to reach out for a chat.
 <!--
 **simeng-yang/simeng-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
