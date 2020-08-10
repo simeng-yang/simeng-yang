@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 Some of my handles on the web...
 #### ➤ [My LinkedIn](https://www.linkedin.com/in/simengyang/)
-#### ➤ [My Resume](https://simengyang.me/assets/Simeng_Resume.pdf) |
+#### ➤ [My Resume](https://simengyang.me/assets/Simeng_Resume.pdf)
