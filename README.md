@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm excited to be working on Deep Learning @ [Instagram](https://www.instagram.com/?hl=en) NYC this fall! 
+I'm excited to be working on Core ML @ [Instagram](https://www.instagram.com/?hl=en) NYC this fall! 
 
 Previously, I also worked on Machine Learning @ [Microsoft](https://www.microsoft.com/en-us/visitorcenter/default) Redmond.
 
