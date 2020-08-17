@@ -4,7 +4,7 @@ I'm excited to be working on Core ML @ [Instagram](https://www.instagram.com/?hl
 
 Previously, I also worked on Machine Learning @ [Microsoft](https://www.microsoft.com/en-us/visitorcenter/default) Redmond.
 
-Looking forwards to what the future will bring!
+I'll be graduating from the University of Waterloo's [Computer Science program](https://cs.uwaterloo.ca/) in April 2021 and am excited, but nervous about taking the plunge into the "real world"!
 
 I'm also open to opportunities to collaborate, so feel free to reach out for a chat.
 <!--
