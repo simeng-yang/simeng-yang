@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm excited to be working on Core ML @ [Instagram](https://www.instagram.com/?hl=en) NYC this fall! 
+I've completed an internship @ Facebook NYC, where I worked on offline machine learning pipelines to drive product relevance for [Instagram](https://www.instagram.com/?hl=en) Shopping!
 
 Previously, I also worked on Machine Learning @ [Microsoft](https://www.microsoft.com/en-us/visitorcenter/default) Redmond.
 
-I'll be graduating from the University of Waterloo's [Computer Science program](https://cs.uwaterloo.ca/) in April 2021 and am excited, but nervous about taking the plunge into the "real world"!
+I've recently graduated from the University of Waterloo's [Computer Science program](https://cs.uwaterloo.ca/) in December 2020 and am excited, but nervous about taking the plunge into the "real world"!
 
 I'm also open to opportunities to collaborate, so feel free to reach out for a chat.
 <!--
