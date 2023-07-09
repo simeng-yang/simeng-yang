@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I've completed an internship @ Facebook NYC, where I worked on offline machine learning pipelines to drive product relevance for [Instagram](https://www.instagram.com/?hl=en) Shopping!
+Currently MLE @ Meta NYC.
 
-Previously, I also worked on Machine Learning @ [Microsoft](https://www.microsoft.com/en-us/visitorcenter/default) Redmond.
+Previously, I completed an internship @ Facebook NYC, where I worked on machine learning models to drive product relevance for [Instagram](https://www.instagram.com/?hl=en) Shopping, and also worked on Machine Learning @ [Microsoft](https://www.microsoft.com/en-us/visitorcenter/default) Redmond.
 
-I've recently graduated from the University of Waterloo's [Computer Science program](https://cs.uwaterloo.ca/) in December 2020 and am excited, but nervous about taking the plunge into the "real world"!
+I graduated from the University of Waterloo's [Computer Science program](https://cs.uwaterloo.ca/) in December 2020.
 
 I'm also open to opportunities to collaborate, so feel free to reach out for a chat.
 <!--
@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 
 Some of my handles on the web...
 #### ➤ [My LinkedIn](https://www.linkedin.com/in/simengyang/)
-#### ➤ [My Resume](https://simengyang.me/assets/Simeng_Resume.pdf)
